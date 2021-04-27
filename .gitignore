@@ -1,4 +1,5 @@
 .DS_Store
+.iCloud
 node_modules
 /.svelte
 /build
