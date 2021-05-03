@@ -1,1 +1,1 @@
-run = "node build"
+run = "npm run build && node build"
