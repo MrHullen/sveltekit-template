@@ -11,5 +11,5 @@
 
   <p>
     SvelteKit makes creating websites and web apps much easier!
-  </>
+  </p>
 </section>
